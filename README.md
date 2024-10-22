@@ -4,15 +4,6 @@
 
 ResQ SOS is a Flutter application designed to provide emergency assistance and information. The app includes features such as safe locations, medical information, and contact options.
 
-## Table of Contents 📚
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features ✨
 
@@ -68,6 +59,15 @@ Here are some screenshots of the app:
 
 ### Settings Screen
 <img src="assets/7.png" alt="Settings Screen" width="45%"/>
+## Table of Contents 📚
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Development 👩‍💻👨‍💻
 
