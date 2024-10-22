@@ -97,6 +97,3 @@ To contribute to the development of ResQ SOS, follow these steps:
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
