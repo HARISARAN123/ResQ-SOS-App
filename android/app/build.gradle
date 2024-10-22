@@ -1,0 +1,27 @@
+android {
+    namespace = "com.example.resq_final_2"
+    compileSdk = 34
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17  // Changed to 17
+        targetCompatibility = JavaVersion.VERSION_17  // Changed to 17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'  // Changed to 17
+    }
+
+    defaultConfig {
+        applicationId = "com.example.resq_final_2"
+        minSdk = 21
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
