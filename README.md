@@ -21,6 +21,7 @@ ResQ SOS is a Flutter application designed to provide emergency assistance and i
 - **Contact Options**: Quickly contact emergency services or predefined contacts.
 - **Onboarding**: A guided onboarding process for new users.
 - **Blog**: Access to a blog with useful articles and information.
+- **Settings**: Customize app settings to suit your preferences.
 
 ## Installation
 
@@ -70,6 +71,9 @@ Here are some screenshots of the app:
 
 ### Contact Screen
 ![Contact Screen](path/to/contact_screen.png)
+
+### Settings Screen
+![Settings Screen](path/to/settings_screen.png)
 
 ## Development
 
