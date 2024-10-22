@@ -61,19 +61,13 @@ Once the app is installed, you can use the following features:
 Here are some screenshots of the app:
 
 ### Home Screen
-![Home Screen](assets/1.png)
-
-### Safe Locations Screen
-![Safe Locations Screen](assets/6.png)
+<img src="assets/1.png" alt="Home Screen" width="45%"/> <img src="assets/6.png" alt="Safe Locations Screen" width="45%"/>
 
 ### Medical Info Screen
-![Medical Info Screen](assets/3.png)
-
-### Contact Screen
-![Contact Screen](assets/4.png)
+<img src="assets/3.png" alt="Medical Info Screen" width="45%"/> <img src="assets/4.png" alt="Contact Screen" width="45%"/>
 
 ### Settings Screen
-![Settings Screen](assets/7.png)
+<img src="assets/7.png" alt="Settings Screen" width="45%"/>
 
 ## Development 👩‍💻👨‍💻
 
