@@ -1,10 +1,10 @@
-# ResQ SOS
+# ResQ SOS 🚨
 
 ![ResQ SOS Logo](path/to/logo.png)
 
 ResQ SOS is a Flutter application designed to provide emergency assistance and information. The app includes features such as safe locations, medical information, and contact options.
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Features](#features)
 - [Installation](#installation)
@@ -14,7 +14,7 @@ ResQ SOS is a Flutter application designed to provide emergency assistance and i
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features ✨
 
 - **Safe Locations**: Find and navigate to safe locations in case of an emergency.
 - **Medical Information**: Store and access important medical information.
@@ -23,7 +23,7 @@ ResQ SOS is a Flutter application designed to provide emergency assistance and i
 - **Blog**: Access to a blog with useful articles and information.
 - **Settings**: Customize app settings to suit your preferences.
 
-## Installation
+## Installation 🛠️
 
 To get started with ResQ SOS, follow these steps:
 
@@ -43,7 +43,7 @@ To get started with ResQ SOS, follow these steps:
     flutter run
     ```
 
-## Usage
+## Usage 🚀
 
 Once the app is installed, you can use the following features:
 
@@ -56,7 +56,7 @@ Once the app is installed, you can use the following features:
 - **Onboarding Screen**: Guided onboarding for new users.
 - **Blog Screen**: Access useful articles and information.
 
-## Screenshots
+## Screenshots 📸
 
 Here are some screenshots of the app:
 
@@ -75,7 +75,7 @@ Here are some screenshots of the app:
 ### Settings Screen
 ![Settings Screen](assets/7.png)
 
-## Development
+## Development 👩‍💻👨‍💻
 
 To contribute to the development of ResQ SOS, follow these steps:
 
@@ -99,10 +99,10 @@ To contribute to the development of ResQ SOS, follow these steps:
     ```
 6. **Create a pull request** on GitHub.
 
-## Contributing
+## Contributing 🤝
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
